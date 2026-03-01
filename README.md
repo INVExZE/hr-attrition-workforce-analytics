@@ -53,11 +53,4 @@ Cross-references attrition with educational backgrounds to see if specific recru
 
 ---
 
-## 🤝 Contributing
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any enhancements to the **DAX measures**, **UI/UX design**, or **predictive modeling** (such as turnover forecasting) are greatly appreciated.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/ImprovedVisuals`)
-3. Commit your Changes (`git commit -m 'Add turnover forecast trendline'`)
-4. Push to the Branch (`git push origin feature/ImprovedVisuals`)
-5. Open a Pull Request
